@@ -1,0 +1,20 @@
+<div id="popupNav" class="overlay" style="z-index:99">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <div class="overlay-content">
+      <a href="#">Semester 1</a>
+      <a href="#">Semester 2</a>
+      <a href="#">Semester 3</a>
+      <a href="#">Semester 4</a>
+    </div>
+  </div>
+  <span id="popupNavBtn" onclick="openNav()"><i class="fa fa-list-ol"></i></span>
+
+  <script>
+    function openNav() {
+        document.getElementById("popupNav").style.height = "100%";
+    }
+    
+    function closeNav() {
+        document.getElementById("popupNav").style.height = "0%";
+    }
+    </script>
