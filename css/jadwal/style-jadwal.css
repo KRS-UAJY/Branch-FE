@@ -149,6 +149,12 @@ Main Components
   padding: .8em;
 }
 
+@media only screen and (max-width: 549px){
+  th, tr td:first-child {
+    display: none;
+  }
+}
+
 @media only screen and (min-width: 550px) {
   .cd-schedule .events .single-event {
     width: 40%;

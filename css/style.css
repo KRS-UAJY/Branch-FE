@@ -8519,7 +8519,9 @@ footer#footer.footer-style-2 {
   padding-right: 0px!important;
   padding-left: 0px!important;
 }
-
+.md-12-paksa{
+  padding-right: 0px!important;
+}
 .pemaksaan-col {
   padding-left: 0px!important;
   padding-right: 0px!important;
@@ -8559,10 +8561,11 @@ table tr.pause {
 }
 
 table td {
-  text-align: center;
+  /* text-align: center; */
   vertical-align: top;
   overflow: hidden;
   height: 30px;
+  width: 100%;
 }
 
 .event {
@@ -8641,7 +8644,7 @@ text-align: center;
 #to-top {
   display: none;
   position: fixed;
-  bottom: 20px;
+  bottom: 30px;
   right: 30px;
   z-index: 99;
   font-size: 18px;
@@ -8683,9 +8686,7 @@ text-align: center;
 } */
 
 /* FOR RESET BTN - SUBMIT KRS*/
-#reset {
-  margin-bottom: 20px;
-}
+
 
 /* POP UP MODAL CSS */
 /* The Modal (background) */
@@ -8746,7 +8747,7 @@ text-align: center;
 
 .modal-header {
   padding: 2px 16px;
-  background-color: #5cb85c;
+  background-color: #37ABF2;
   color: white;
 }
 
@@ -8761,7 +8762,7 @@ text-align: center;
 #mk-dipilih {
   /* display: none; */
   position: fixed;
-  bottom: 20px;
+  bottom: 80px;
   left: 30px;
   z-index: 99;
   font-size: 18px;
@@ -8858,4 +8859,71 @@ text-align: center;
 
 .popupnav {
   z-index: 99;
+}
+
+/* JADWAL RESPONSIVE */
+@media only screen and (max-width: 800px){
+  #sesi-jadwal{
+    display: none;
+  }
+  #hari-jadwal{
+    display: none;
+  }
+  .time{
+    display: none;
+  }
+  h5{
+    font-size: 9px;
+  }
+  .location{
+    font-size: 9px;
+  }
+  #reset{
+    bottom: 80px!important;
+  }
+  #to-top{
+    bottom: 80px!important;
+  }
+}
+
+/* END RESPONSIVE JADWAL KULIAH */
+#back-to-krs{
+  position: fixed;
+  bottom: 80px;
+  left: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #F8C301;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+  color: #000000;
+}
+#back-to-krs:hover{
+  background-color: #061621;
+  color: #FFFFFF;
+}
+
+/* FLOATING SUBMIT */
+#reset{
+  position: fixed;
+  bottom: 20px;
+  right: 85px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #F8C301;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+  color: #000000;
+}
+#reset:hover{
+  background-color: #061621;
+  color: #FFFFFF;
 }
