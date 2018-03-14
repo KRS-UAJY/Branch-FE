@@ -10,9 +10,16 @@
     </div>
 </div>
 
-
+<div>
     <a id="reset" class="btn btn-primary" href="#/home">Submit KRS</a>
+</div>
 
+<div>
+    <a href="#/jadwal-kuliah" title="Jadwal Kuliah" id="btn-jadwal-kuliah" class="btn btn-primary tooltip-hover"><i class="fa fa-calendar-check"></i></a>
+</div>
+<div>
+    <a href="#/jadwal-ujian" title="Jadwal Ujian" id="btn-jadwal-ujian" class="btn btn-primary  tooltip-hover"><i class="fa fa-calendar-alt"></i></a>
+</div>
 <div ng-include="'pages/components/btn-to-top.html'"></div>
 <div ng-include="'pages/components/modal-mk-dipilih.html'"></div>
 <div ng-include="'pages/components/timer.html'"></div>
@@ -22,3 +29,9 @@
 <br>
 <br>
 <div ng-include="'pages/components/footer-dalam.html'"></div>
+<script>
+    $(document).ready(function(){
+        $('.tooltip-hover').tooltip({trigger: "hover"}); 
+        // $('.tooltip-jadwal-ujian').tooltip({title: "Jadwal Ujian", trigger: "hover"});
+    });  
+    </script>

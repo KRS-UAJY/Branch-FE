@@ -1,6 +1,6 @@
 
 <!-- Trigger/Open The Modal -->
-<button id="mk-dipilih"><i class="fa fa-clipboard-check fa-lg"></i></i></button>
+<button class="tooltip-hover" title="Cek MK Terpilih" id="mk-dipilih"><i class="fa fa-clipboard-check fa-lg"></i></i></button>
 
 <!-- The Modal -->
 <div id="popup-mk-dipilih" class="modal">
@@ -77,3 +77,9 @@ window.onclick = function(event) {
     }
 }
 </script>
+<script>
+  $(document).ready(function(){
+      $('.tooltip-hover').tooltip({trigger: "hover"}); 
+      // $('.tooltip-jadwal-ujian').tooltip({title: "Jadwal Ujian", trigger: "hover"});
+  });  
+  </script>
