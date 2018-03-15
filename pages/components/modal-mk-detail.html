@@ -1,0 +1,29 @@
+<div id="mk-detail" class="overlay" style="z-index:99">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeDetail()">&times;</a>
+    <div class="overlay-content">
+        <div class="notification-setting setting-box">
+            <div class="create-course-sidebar">
+              <h4 class="lg black bold">DETAIL</h4>
+                <ul class="list-bar">
+                    <li class="active"><span class="count"><i class="fa fa-user"></i></span>Drs. Abdullah Bin Anum</li>
+                    <li><span class="count"><i class="fa fa-calendar-check"></i></span>Sesi 1</li>
+                    <li class="active"><span class="count"><i class="fa fa-file-alt"></i></span>B+</li>
+                    <li><span class="count"><i class="fa fa-marker-alt"></i></span>Ruang 3469</li>
+                    <li class="active"><span class="count"><i class="fa fa-calendar-alt"></i></span>21-1-2000</li>
+                    <li><span class="count"><i class="fa fa-calendar-alt"></i></span>21-1-2000</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+  </div>
+  <span class="tooltip-kiri" data-toggle="tooltip" data-placement="bottom" data-original-title="Filter MK Per Semester" id="mk-detail-btn" onclick="openDetail()"><i class="fa fa-list-ol"></i></span>
+
+  <script>
+    function openDetail() {
+        document.getElementById("mk-detail").style.height = "100%";
+    }
+    
+    function closeDetail() {
+        document.getElementById("mk-detail").style.height = "0%";
+    }
+    </script>

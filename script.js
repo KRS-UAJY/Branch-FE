@@ -24,6 +24,9 @@
 		.when('/jadwal-kuliah', {
 			templateUrl: 'pages/jadwal-kuliah.html',
 		})
+		.when('/starter', {
+			templateUrl: 'pages/starter.html',
+		})
 
 	    // route for the contact page
 	    // .when('/contact', {
