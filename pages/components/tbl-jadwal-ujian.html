@@ -1,3 +1,4 @@
+<a href="#/tables" id="back-to-krs" title="Kembali Ke KRS" class="tooltip-hover"><i class="fa fa-caret-left"></i></a>
 <table>
     <thead>
       <tr>
@@ -125,3 +126,10 @@
     </tbody>
   </table>
   </div>
+
+  <script>
+    $(document).ready(function(){
+        $('.tooltip-hover').tooltip({trigger: "hover", placement: "right"}); 
+        // $('.tooltip-jadwal-ujian').tooltip({title: "Jadwal Ujian", trigger: "hover"});
+    });  
+    </script>

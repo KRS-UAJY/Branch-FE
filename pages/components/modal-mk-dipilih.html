@@ -19,6 +19,7 @@
           <th scope="col">Kelas</th>
           <th scope="col">Dosen</th>
           <th scope="col">Biaya /MK</th>
+          <th scope="col">Batalkan</th>
         </tr>
       </thead>
       <tbody>
@@ -28,6 +29,7 @@
           <td>F</td>
           <td>Dr. Velir, SH</td>
           <td>Rp. 2003,-</td>
+          <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
         </tr>
         <tr>
           <th scope="row">2</th>
@@ -35,6 +37,7 @@
           <td>C</td>
           <td>Dr. Babang Binatang, SL</td>
           <td>Rp. 2001,-</td>
+          <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
         </tr>
         <tr>
           <th scope="row">3</th>
@@ -42,6 +45,7 @@
           <td>G</td>
           <td>Drs. Kampang, SA</td>
           <td>Rp. 1900,-</td>
+          <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
         </tr>
       </tbody>
     </table>
@@ -79,7 +83,7 @@ window.onclick = function(event) {
 </script>
 <script>
   $(document).ready(function(){
-      $('.tooltip-hover').tooltip({trigger: "hover"}); 
+      $('.tooltip-hover').tooltip({trigger: "hover", placement: "right"}); 
       // $('.tooltip-jadwal-ujian').tooltip({title: "Jadwal Ujian", trigger: "hover"});
   });  
   </script>
