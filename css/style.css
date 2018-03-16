@@ -6798,6 +6798,10 @@ footer#footer.footer-style-2 {
   background-color: #37abf2;
   color: #fff;
 }
+.create-course-sidebar .list-bar .active:hover{
+  background-color: #061621;
+  color: #FFFFFF;
+}
 .create-course-sidebar .list-bar .active .count {
   background-color: #fff;
 }
@@ -8997,3 +9001,8 @@ text-align: center;
   background-color: #061621;
   color: #FFFFFF;
 }
+
+.paksa-turun-40{
+  margin-top: 40px!important;
+}
+

@@ -24,8 +24,11 @@
 		.when('/jadwal-kuliah', {
 			templateUrl: 'pages/jadwal-kuliah.html',
 		})
-		.when('/starter', {
-			templateUrl: 'pages/starter.html',
+		.when('/admin', {
+			templateUrl: 'pages/admin-login.html',
+		})
+		.when('/admin-home', {
+			templateUrl: 'pages/admin-menu.html',
 		})
 
 	    // route for the contact page
