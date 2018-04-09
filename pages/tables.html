@@ -1,27 +1,95 @@
 <!-- <div ng-include="'pages/components/header.html'"></div> -->
-<div ng-include="'pages/components/profile.html'"></div>
+<div class="float-profile" ng-include="'pages/components/profile.html'"></div>
 
 
 <div class="row pemaksaan-row">
-    <div class="col-md-12 md-12-paksa">
-        <table datatable="" dt-options="tables.dtOptions" dt-columns="tables.dtColumns" class="row-border hover">
+        <div class="col-md-5 paksa-font float-table">
+                <div class="modal-content">
+                        <div class="modal-header">
+                          <h2>MK Yang Dipilih</h2>
+                        </div>
+                        <table class="table table-fixed">
+                          <thead class="paksa-font">
+                            <tr>
+                              <th scope="col">No.</th>
+                              <th scope="col">Nama MK</th>
+                              <th scope="col">Kelas</th>
+                              <th scope="col">Dosen</th>
+                              <th scope="col">Biaya /MK</th>
+                              <th scope="col">Batalkan</th>
+                            </tr>
+                          </thead>
+                          <tbody class="tbody-table-mk-dipilih paksa-font">
+                            <tr>
+                              <th scope="row">1</th>
+                              <td>Hisap Hisap 1</td>
+                              <td>F</td>
+                              <td>Dr. Velir, SH</td>
+                              <td>Rp. 2003,-</td>
+                              <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
+                            </tr>
+                            <tr>
+                              <th scope="row">2</th>
+                              <td>Hisap Hisap 2</td>
+                              <td>C</td>
+                              <td>Dr. Babang Binatang, SL</td>
+                              <td>Rp. 2001,-</td>
+                              <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
+                            </tr>
+                            <tr>
+                              <th scope="row">3</th>
+                              <td>Hisap Hisap 3</td>
+                              <td>G</td>
+                              <td>Drs. Kampang, SA</td>
+                              <td>Rp. 1900,-</td>
+                              <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
+                            </tr><tr>
+                              <th scope="row">1</th>
+                              <td>Hisap Hisap 1</td>
+                              <td>F</td>
+                              <td>Dr. Velir, SH</td>
+                              <td>Rp. 2003,-</td>
+                              <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
+                            </tr>
+                            <tr>
+                              <th scope="row">2</th>
+                              <td>Hisap Hisap 2</td>
+                              <td>C</td>
+                              <td>Dr. Babang Binatang, SL</td>
+                              <td>Rp. 2001,-</td>
+                              <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
+                            </tr>
+                            <tr>
+                              <th scope="row">3</th>
+                              <td>Hisap Hisap 3</td>
+                              <td>G</td>
+                              <td>Drs. Kampang, SA</td>
+                              <td>Rp. 1900,-</td>
+                              <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+        </div>
+    <div class="col-md-7 float-table">
+        <table datatable="" dt-options="tables.dtOptions" dt-columns="tables.dtColumns" class="row-border hover table-shadow paksa-font">
 
         </table>
     </div>
 </div>
 
 <div>
-    <a id="reset" class="btn btn-primary" href="#/home">Submit KRS</a>
+    <a id="reset" class="btn btn-primary paksa-font" href="#/home">Submit KRS</a>
 </div>
 
 <div>
     <a href="#/jadwal-kuliah" title="Jadwal Kuliah" id="btn-jadwal-kuliah" class="btn btn-primary tooltip-hover"><i class="fa fa-calendar-check"></i></a>
 </div>
-<div>
+<!-- <div>
     <a href="#/jadwal-ujian" title="Jadwal Ujian" id="btn-jadwal-ujian" class="btn btn-primary  tooltip-hover"><i class="fa fa-calendar-alt"></i></a>
-</div>
+</div> -->
 <div ng-include="'pages/components/btn-to-top.html'"></div>
-<div ng-include="'pages/components/modal-mk-dipilih.html'"></div>
+<!-- <div ng-include="'pages/components/modal-mk-dipilih.html'"></div> -->
 <div ng-include="'pages/components/timer.html'"></div>
 <div ng-include="'pages/components/popup-navbar.html'"></div>
 <!-- <div ng-include="'pages/components/modal-mk-detail.html'"></div> -->
@@ -29,10 +97,10 @@
 <br>
 <br>
 <br>
-<div ng-include="'pages/components/footer-dalam.html'"></div>
+<!-- <div ng-include="'pages/components/footer-dalam.html'"></div> -->
 
 <!-- MODAL MK-DETAIL -->
-<div id="mk-detail" class="overlay" style="z-index:99">
+<!-- <div id="mk-detail" class="overlay" style="z-index:99">
     <a href="javascript:void(0)" class="closebtn" onclick="closeDetail()">&times;</a>
     <div class="overlay-content">
         <div class="notification-setting setting-box">
@@ -60,7 +128,7 @@
     function closeDetail() {
         document.getElementById("mk-detail").style.height = "0%";
     }
-    </script>
+    </script> -->
 
 <script>
     $(document).ready(function(){

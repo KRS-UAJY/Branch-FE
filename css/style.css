@@ -42,7 +42,7 @@ a {
 body {
   line-height: 1.4;
   font-size: 14px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   color: #000;
 }
 img {
@@ -136,7 +136,7 @@ html .awe-color {
   float: right;
 }
 p {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   line-height: 1.7em;
@@ -148,41 +148,41 @@ label {
   width: 100% !important;
 }
 h1 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 50px;
   line-height: 1.5em;
   color: #666;
 }
 h1 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 38px;
   line-height: 1.5em;
   color: #666;
 }
 h3,
 .big {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 32px;
   line-height: 1.5em;
   color: #666;
 }
 h4,
 .md {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 24px;
   line-height: 1.5em;
   color: #fff;
 }
 h5,
 .sm {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
   line-height: 1.5em;
   color: #fff;
 }
 h6,
 .xsm {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   line-height: 1.5em;
   color: #fff;
@@ -233,7 +233,7 @@ h6,
   vertical-align: middle;
 }
 .mc-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   line-height: 1.7em;
   color: #666;
@@ -250,7 +250,7 @@ h6,
   -moz-border-radius: 5px;
   border-radius: 5px;
   cursor: pointer;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   height: 40px;
   line-height: 40px !important;
@@ -272,7 +272,7 @@ h6,
   -moz-border-radius: 5px;
   border-radius: 5px;
   cursor: pointer;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 12px;
   height: 22px;
   line-height: 22px !important;
@@ -292,7 +292,7 @@ h6,
   -moz-border-radius: 5px;
   border-radius: 5px;
   cursor: pointer;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   height: 30px;
   line-height: 30px !important;
@@ -373,7 +373,7 @@ h6,
   text-decoration: underline;
 }
 .title-box {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #666;
@@ -397,7 +397,7 @@ h6,
   height: 40px;
   line-height: 40px;
   padding: 0 13px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #003350;
   -webkit-border-radius: 5px;
@@ -419,7 +419,7 @@ h6,
   border-radius: 5px;
   background-color: #fff;
   padding: 0 13px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #013450;
   cursor: default;
@@ -495,7 +495,7 @@ h6,
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 12px;
   font-weight: 700;
   line-height: 22px;
@@ -511,7 +511,7 @@ h6,
   padding: 15px 10px;
 }
 .mc-item h4 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #666;
   line-height: 1.3em;
@@ -538,7 +538,7 @@ h6,
   width: 100%;
 }
 .mc-item .name-author {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #646472;
   margin-top: 34px;
@@ -553,7 +553,7 @@ h6,
 }
 .mc-item .ft-item .price {
   position: absolute;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 24px;
   font-weight: 700;
   color: #666;
@@ -571,7 +571,7 @@ h6,
 .mc-item .ft-item .view-info,
 .mc-item .ft-item .comment-info {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
   font-size: 16px;
   color: #666;
@@ -641,7 +641,7 @@ h6,
 }
 .mc-learning-item .percent-learn {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #666;
   margin-top: 14px;
@@ -652,7 +652,7 @@ h6,
 }
 .mc-learning-item .learnnow {
   float: right;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #666;
   margin-top: 14px;
@@ -679,7 +679,7 @@ h6,
 }
 .mc-teaching-item .edit-view a {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 12px;
   font-weight: 700;
   color: #a6a6a6;
@@ -831,7 +831,7 @@ h6,
   border-radius: 50%;
   text-align: center;
   line-height: 44px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 24px;
   float: left;
   border: 3px solid #37abf2;
@@ -924,7 +924,7 @@ textarea:-ms-input-placeholder {
 .text-form-editor input {
   display: block;
   width: 100%;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 24px;
   color: #666;
   height: 60px;
@@ -957,7 +957,7 @@ textarea {
   padding: 15px 0;
 }
 .mc-count-item h4 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #37abf2;
@@ -965,13 +965,13 @@ textarea {
   margin: 0;
 }
 .mc-count-item p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 24px;
   color: #11528C;
   line-height: 1.3em;
 }
 .mc-count-item p span {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 24px;
   color: #11528C;
 }
@@ -990,7 +990,7 @@ textarea {
 .form-yourmail input,
 .form-phone input,
 .form-datebirth input {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #A5A5A5;
   padding: 0 12px;
@@ -1073,7 +1073,7 @@ textarea {
 .list-disc li {
   position: relative;
   padding: 2px 0;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   line-height: 1.7em;
@@ -1120,7 +1120,7 @@ input.valid:-ms-input-placeholder {
   position: relative;
   top: 25px;
   left: 12px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   font-weight: 400;
   color: #a6a6a6;
@@ -1131,7 +1131,7 @@ table.mc-table {
 }
 table.mc-table thead tr th {
   vertical-align: middle;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #666;
   padding: 14px 20px;
@@ -1152,7 +1152,7 @@ table.mc-table tbody tr {
 }
 table.mc-table tbody tr td {
   vertical-align: middle;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   padding: 18px 20px;
@@ -1199,7 +1199,7 @@ table.mc-table tbody .new .submissions a:before {
 }
 .radio-style,
 .checkbox-style {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #646472;
 }
@@ -1428,7 +1428,7 @@ table.mc-table tbody .new .submissions a:before {
 .navigation .menu li a {
   position: relative;
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #fff;
@@ -1632,7 +1632,7 @@ table.mc-table tbody .new .submissions a:before {
   border-radius: 33px;
   opacity: 0;
   color: #fff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -1702,7 +1702,7 @@ table.mc-table tbody .new .submissions a:before {
     color: #37ABF2;
 }
 .post .post-meta {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
     font-size: 13px;
     color: #A5A5A5;
     margin: 10px 0;
@@ -1713,7 +1713,7 @@ table.mc-table tbody .new .submissions a:before {
 .post .post-link a {
   font-size: 16px;
   color: #666;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
     color: #666;
 }
 .post .post-link a .fa {
@@ -1780,7 +1780,7 @@ table.mc-table tbody .new .submissions a:before {
 }
 .blog-sidebar .widget_categories > ul li {
   position: relative;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #A6A6A6;
@@ -1807,7 +1807,7 @@ table.mc-table tbody .new .submissions a:before {
 }
 
 .blog-sidebar .widget_recent_post ul li {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #A6A6A6;
@@ -1829,7 +1829,7 @@ table.mc-table tbody .new .submissions a:before {
   display: inline-block;
   background-color: #fff;
   padding: 2px 6px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
   font-size: 12px;
   color: #3F3F3F;
@@ -1858,7 +1858,7 @@ table.mc-table tbody .new .submissions a:before {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
   font-size: 14px;
   border: 0;
@@ -1869,7 +1869,7 @@ table.mc-table tbody .new .submissions a:before {
   -moz-border-radius: 4px;
   border-radius: 4px;
   padding: 8px 15px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
   font-size: 14px;
   background-color: #37ABF2;
@@ -2148,7 +2148,7 @@ table.mc-table tbody .new .submissions a:before {
 }
 .share-tags .tags-box .tag a {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
   font-size: 12px;
   color: #3F3F3F;
@@ -2177,7 +2177,7 @@ table.mc-table tbody .new .submissions a:before {
   overflow: hidden;
 }
 .about-author .author-info {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
 }
 .about-author .author-info .author-title {
   font-size: 16px;
@@ -2234,7 +2234,7 @@ table.mc-table tbody .new .submissions a:before {
   opacity: 1;
 }
 blockquote {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
   border-left: 3px solid #428bca;
 }
@@ -2343,7 +2343,7 @@ blockquote cite:after {
 }
 .after-slider-content h4 {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
   font-weight: 700;
   color: #fff;
@@ -2366,7 +2366,7 @@ blockquote cite:after {
   width: 100%;
   height: 40px;
   padding: 0 13px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #003350;
 }
@@ -2591,7 +2591,7 @@ footer#footer.footer-style-2 {
   margin-top: 20px;
 }
 #footer .widget p {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #fff;
   line-height: 1.7em;
@@ -2602,7 +2602,7 @@ footer#footer.footer-style-2 {
 }
 .first-footer .widget ul li,
 .first-footer .widget span {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #fff;
   margin-top: 10px;
@@ -2671,7 +2671,7 @@ footer#footer.footer-style-2 {
   margin-top: 0
 }
 .news_letter p {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
 }
 .news_letter .mc-btn {
   margin-top: 0
@@ -2693,14 +2693,14 @@ footer#footer.footer-style-2 {
   height: 35px;
   border: 1px solid #ddd;
   padding: 0 15px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   margin-bottom: 15px;
 }
 .first-footer .letter span {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #666;
   padding-right: 25px;
@@ -2718,7 +2718,7 @@ footer#footer.footer-style-2 {
 .second-footer .address {
   display: inline-block;
   margin-right: 60px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
 }
 .second-footer .email .icon,
@@ -2741,7 +2741,7 @@ footer#footer.footer-style-2 {
 .copyright {
   position: absolute;
   right: 15px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -2840,7 +2840,7 @@ footer#footer.footer-style-2 {
   position: relative;
 }
 .list-account-info .list-item .list-profile-title h4 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #666;
   line-height: 50px;
@@ -2857,7 +2857,7 @@ footer#footer.footer-style-2 {
   height: 24px;
   text-align: center;
   line-height: 24px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #fff;
   background-color: #37abf2;
@@ -2939,7 +2939,7 @@ footer#footer.footer-style-2 {
 .list-account-info .messages .toggle-message .viewall a {
   display: block;
   background-color: #eee;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   font-weight: 700;
   color: #666;
@@ -2979,7 +2979,7 @@ footer#footer.footer-style-2 {
 }
 .list-account-info .messages .list-message li .list-body .author span {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #666;
@@ -2988,7 +2988,7 @@ footer#footer.footer-style-2 {
   display: none;
 }
 .list-account-info .messages .list-message li .list-body p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #666;
   line-height: 1.5em;
@@ -3004,7 +3004,7 @@ footer#footer.footer-style-2 {
   right: 0;
 }
 .list-account-info .messages .list-message li .list-body .time span {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 12px;
   font-style: italic;
   color: #666;
@@ -3114,7 +3114,7 @@ footer#footer.footer-style-2 {
 }
 .list-account-info .notification .list-notification li .list-body .author span {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #666;
@@ -3134,7 +3134,7 @@ footer#footer.footer-style-2 {
 }
 .list-account-info .notification .list-notification li .list-body p {
   display: inline;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #666;
   line-height: 1.5em;
@@ -3154,7 +3154,7 @@ footer#footer.footer-style-2 {
   width: 100%;
 }
 .list-account-info .notification .list-notification li .time span {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 12px;
   font-style: italic;
   color: #a5a5a5;
@@ -3237,7 +3237,7 @@ footer#footer.footer-style-2 {
   display: block;
   line-height: 30px;
   color: #666;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   padding: 0 15px;
   -webkit-transition: all 0.3s ease 0s;
@@ -3302,7 +3302,7 @@ footer#footer.footer-style-2 {
 }
 .page-control .page-info a {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #A5A5A5;
@@ -3336,7 +3336,7 @@ footer#footer.footer-style-2 {
   -ms-transform: translateY(-50%);
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #646472;
@@ -3415,7 +3415,7 @@ footer#footer.footer-style-2 {
 }
 .sidebar-categories .widget ul li a {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #A6A6A6;
 }
@@ -3445,7 +3445,7 @@ footer#footer.footer-style-2 {
 }
 .breadcrumb {
   background: none;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
 }
@@ -3570,7 +3570,7 @@ footer#footer.footer-style-2 {
 }
 .video-course-intro .price {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 28px;
   color: #666;
   margin: 15px 20px 5px;
@@ -3658,7 +3658,7 @@ footer#footer.footer-style-2 {
   float: left;
 }
 .new-course .item h4 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #666;
@@ -3679,7 +3679,7 @@ footer#footer.footer-style-2 {
   font-size: 14px;
 }
 .new-course .detail-course {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #666;
   font-weight: normal;
@@ -3727,7 +3727,7 @@ footer#footer.footer-style-2 {
   color: #37abf2;
 }
 .info-instructor p {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   margin-top: 10px;
@@ -3744,7 +3744,7 @@ footer#footer.footer-style-2 {
 }
 .nav-tabs {
   position: relative;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #666;
   overflow: hidden;
@@ -3820,7 +3820,7 @@ footer#footer.footer-style-2 {
 }
 .form-review .your-rate span {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
   color: #666;
   margin-right: 10px;
@@ -3863,7 +3863,7 @@ footer#footer.footer-style-2 {
 .content-review em {
   display: block;
   font-weight: 700;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   margin-top: 15px;
@@ -3883,7 +3883,7 @@ footer#footer.footer-style-2 {
 }
 .load-more a {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
 }
@@ -3926,7 +3926,7 @@ footer#footer.footer-style-2 {
   width: 100%;
   height: 100px;
   background-color: #FFF;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   margin-top: 30px;
   padding: 15px 20px;
@@ -3951,7 +3951,7 @@ footer#footer.footer-style-2 {
   margin-left: 65px;
 }
 .comment-content p {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #666;
   position: relative;
@@ -3961,7 +3961,7 @@ footer#footer.footer-style-2 {
   margin-top: 20px;
 }
 .comment-meta a {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #666;
@@ -4026,7 +4026,7 @@ footer#footer.footer-style-2 {
 }
 .list-student .list-body .address {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #666;
@@ -4134,7 +4134,7 @@ footer#footer.footer-style-2 {
   position: absolute;
   top: 4px;
   right: 0;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
 }
@@ -4166,7 +4166,7 @@ footer#footer.footer-style-2 {
   list-style: none;
 }
 .current-outline li {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   float: left;
@@ -4222,7 +4222,7 @@ footer#footer.footer-style-2 {
 .section-outline .section-list li .count > span {
   display: inline-block;
   position: absolute;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #666;
@@ -4283,7 +4283,7 @@ footer#footer.footer-style-2 {
 .section-outline .section-list li .list-body .download .download-ct {
   position: absolute;
   background-color: #000;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 12px;
   font-weight: 700;
   color: #666;
@@ -4328,7 +4328,7 @@ footer#footer.footer-style-2 {
   visibility: visible;
 }
 .section-outline .section-list li p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   line-height: 1.6em;
@@ -4347,7 +4347,7 @@ footer#footer.footer-style-2 {
   transform: translateY(-50%);
 }
 .section-outline .section-list li .data-lessons {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #A6A6A6;
   margin-top: 10px;
@@ -4496,7 +4496,7 @@ footer#footer.footer-style-2 {
 }
 .list-announcement .list-body .list-content .author {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   margin-top: 22px;
@@ -4508,7 +4508,7 @@ footer#footer.footer-style-2 {
 }
 .list-announcement .list-body .list-content em {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #666;
@@ -4545,7 +4545,7 @@ footer#footer.footer-style-2 {
   margin-bottom: 70px;
 }
 .form-login h2 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 24px;
   font-weight: 700;
   color: #fff;
@@ -4585,7 +4585,7 @@ footer#footer.footer-style-2 {
 .form-check label,
 .form-check a,
 .form-login .link a {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #fff;
@@ -4636,7 +4636,7 @@ footer#footer.footer-style-2 {
   background-color: rgba(2, 53, 80, 0.7);
 }
 .request-form h2 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 24px;
   color: #fff;
   line-height: 1.4em;
@@ -4690,7 +4690,7 @@ footer#footer.footer-style-2 {
   padding: 12px 20px;
 }
 #accordion .panel-title {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #666;
   line-height: 1.4em;
@@ -4728,7 +4728,7 @@ footer#footer.footer-style-2 {
 .form-checkout #bar li {
   position: relative;
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #fff;
   line-height: 70px;
@@ -4826,7 +4826,7 @@ footer#footer.footer-style-2 {
   margin-bottom: 30px;
 }
 .form-checkout .fs-title {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 20px;
   font-weight: 400;
   color: #134E84;
@@ -4865,7 +4865,7 @@ footer#footer.footer-style-2 {
   height: 50px;
 }
 .form-checkout .form-2 label {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #646472;
@@ -4907,7 +4907,7 @@ footer#footer.footer-style-2 {
   -moz-border-radius: 4px;
   border-radius: 4px;
   height: 30px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #A5A5A5;
   padding: 0 12px;
@@ -4943,7 +4943,7 @@ footer#footer.footer-style-2 {
   margin-top: 35px;
 }
 .form-checkout .form-2 .form-total h4 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 24px;
   color: #114D83;
 }
@@ -4975,7 +4975,7 @@ footer#footer.footer-style-2 {
 }
 .sub-banner-search p {
   font-size: 16px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
 }
 .sub-banner-search p a {
   color: #37ABF2;
@@ -4990,7 +4990,7 @@ footer#footer.footer-style-2 {
   padding: 10px;
   float: left;
   font-size: 16px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   border: 0;
   background-color: #fff;
   border-radius: 0;
@@ -5003,7 +5003,7 @@ footer#footer.footer-style-2 {
   border: 0;
   font-size: 16px;
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   margin-top: 20px;
 }
 /*--END /  BANNER RESULT NOT FOUND--*/
@@ -5013,14 +5013,14 @@ footer#footer.footer-style-2 {
   padding: 70px 0;
 }
 .categories-section h3 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 24px;
   color: #666;
   margin-bottom: 40px;
 }
 .categories-section .widget_categories li a {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #666;
   background-color: #fff;
@@ -5068,7 +5068,7 @@ footer#footer.footer-style-2 {
   margin-right: 10px;
 }
 .address-author h3 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #FFF;
   margin-top: 10px;
@@ -5093,12 +5093,12 @@ footer#footer.footer-style-2 {
   border: none;
 }
 .trophies span {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
   color: #FFF;
 }
 .trophies p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #FFF;
 }
@@ -5121,7 +5121,7 @@ footer#footer.footer-style-2 {
 }
 .content-bar li a {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   margin-right: 40px;
@@ -5154,7 +5154,7 @@ footer#footer.footer-style-2 {
   color: #666;
 }
 .create-new-course h3 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
   color: #666;
   display: inline-block;
@@ -5162,7 +5162,7 @@ footer#footer.footer-style-2 {
   margin-right: 20px;
 }
 .create-new-course span {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
   color: #3DABFA;
 }
@@ -5223,7 +5223,7 @@ footer#footer.footer-style-2 {
 }
 .setting-box label {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   cursor: pointer;
@@ -5269,7 +5269,7 @@ footer#footer.footer-style-2 {
   margin-right: 7px;
 }
 .price-course h3 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
   color: #666;
   display: inline-block;
@@ -5277,7 +5277,7 @@ footer#footer.footer-style-2 {
 }
 .price-course span {
   color: #3DABFA;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
 }
 .create-coures {
@@ -5332,7 +5332,7 @@ footer#footer.footer-style-2 {
   padding: 0 10px;
 }
 .choses-file a {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
 }
 .info-acount {
@@ -5348,7 +5348,7 @@ footer#footer.footer-style-2 {
 }
 .security h5,
 .profile-email-address h5 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #666;
@@ -5370,7 +5370,7 @@ footer#footer.footer-style-2 {
   border-radius: 3px;
   margin-top: 10px;
   padding: 0 10px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #666;
   margin-bottom: 20px;
@@ -5385,7 +5385,7 @@ footer#footer.footer-style-2 {
   padding: 35px 20px;
 }
 .social-connect h5 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   font-weight: 700;
@@ -5423,7 +5423,7 @@ footer#footer.footer-style-2 {
 }
 .social-connect p {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
 }
@@ -5443,7 +5443,7 @@ footer#footer.footer-style-2 {
   border-left: none;
   padding: 0 12px;
   padding-bottom: 1px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #666;
 }
@@ -5516,7 +5516,7 @@ footer#footer.footer-style-2 {
 .table-wrap .replied,
 .table-wrap .latest-reply,
 .table-wrap .tb-icon {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #a6a6a6;
   line-height: 30px;
@@ -5532,7 +5532,7 @@ footer#footer.footer-style-2 {
   overflow: hidden;
 }
 .table-wrap .table-head * {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #a6a6a6;
   font-weight: 700;
@@ -5685,14 +5685,14 @@ footer#footer.footer-style-2 {
 }
 .message-body .message-sb-title h4 {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
   color: #666;
   margin: 0;
 }
 .message-body .message-sb-title .new-message {
   float: right;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   margin-top: 3px;
@@ -5747,7 +5747,7 @@ footer#footer.footer-style-2 {
 }
 .message-body .list-message li .list-body .author span {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #666;
@@ -5756,7 +5756,7 @@ footer#footer.footer-style-2 {
   display: none;
 }
 .message-body .list-message li .list-body p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #666;
   line-height: 1.5em;
@@ -5768,7 +5768,7 @@ footer#footer.footer-style-2 {
   right: 0;
 }
 .message-body .list-message li .list-body .time span {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 12px;
   font-style: italic;
   color: #666;
@@ -5818,13 +5818,13 @@ footer#footer.footer-style-2 {
 }
 .message-body .message-ct .author .author-name {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
   color: #37abf2;
   line-height: 1.5em;
 }
 .message-body .message-ct .author em {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-style: italic;
   color: #666;
@@ -5841,7 +5841,7 @@ footer#footer.footer-style-2 {
 .message-body .message-ct .download-ind {
   position: absolute;
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   padding: 0 15px;
@@ -5908,7 +5908,7 @@ footer#footer.footer-style-2 {
 .top-nav-list > li > a {
   position: relative;
   display: table-cell;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   background-color: #eee;
@@ -6012,7 +6012,7 @@ footer#footer.footer-style-2 {
   overflow: visible;
 }
 .section-learn-outline .section-title {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   font-weight: 700;
   color: #fff;
@@ -6032,7 +6032,7 @@ footer#footer.footer-style-2 {
   transition: all 0.3s ease 0s;
 }
 .section-learn-outline li h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   font-weight: 700;
   color: #666;
@@ -6094,7 +6094,7 @@ footer#footer.footer-style-2 {
 .section-learn-outline li .download .download-ct {
   position: absolute;
   background-color: #000;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 12px;
   font-weight: 700;
   color: #666;
@@ -6188,7 +6188,7 @@ footer#footer.footer-style-2 {
   padding: 0 20px;
 }
 .discussion-learn-body .inner .form-discussion h5 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #11538c;
   margin-top: 35px;
@@ -6204,14 +6204,14 @@ footer#footer.footer-style-2 {
   margin: 0;
 }
 .discussion-learn-body .inner .list-discussion .list-body .list-content p {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   font-weight: 400;
   color: #666;
   margin-top: 12px;
 }
 .discussion-learn-body .inner .list-discussion .list-body .name-author {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   font-weight: 700px;
   color: #37abf2;
@@ -6228,7 +6228,7 @@ footer#footer.footer-style-2 {
 }
 .note-learn .note-title h5 {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
   font-weight: 400;
   color: #fff;
@@ -6256,7 +6256,7 @@ footer#footer.footer-style-2 {
   resize: none;
   background: url('../images/bg-note.jpg') repeat;
   background-attachment: local;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   padding: 10px 22px;
   color: #666;
@@ -6291,7 +6291,7 @@ footer#footer.footer-style-2 {
   margin-bottom: 18px;
 }
 .learn-section .title-ct h3 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #262626;
 }
@@ -6301,7 +6301,7 @@ footer#footer.footer-style-2 {
   margin-right: 10px;
 }
 .learn-section .title-ct .skip {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #a6a6a6;
@@ -6325,7 +6325,7 @@ footer#footer.footer-style-2 {
   right: 0;
 }
 .learn-section .tt-right label {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #666;
@@ -6384,7 +6384,7 @@ footer#footer.footer-style-2 {
 .question-content-wrap .question-content .asign-notifi .notifi-item {
   display: table;
   width: 100%;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
   font-size: 13px;
   color: #fff;
@@ -6414,7 +6414,7 @@ footer#footer.footer-style-2 {
 }
 .question-content-wrap .question-content .attachments a {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #A6A6A6;
   line-height: 50px;
@@ -6449,7 +6449,7 @@ footer#footer.footer-style-2 {
   margin-bottom: 30px;
 }
 .question-content-wrap .question-content .meta {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #A5A5A5;
   margin-top: 8px;
@@ -6474,7 +6474,7 @@ footer#footer.footer-style-2 {
 }
 .question-content-wrap .question-content .total-time {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   font-weight: 700;
   color: #666;
@@ -6589,7 +6589,7 @@ footer#footer.footer-style-2 {
 }
 .question-sidebar .feedback cite {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
   font-size: 13px;
   color: #A6A6A6;
@@ -6604,7 +6604,7 @@ footer#footer.footer-style-2 {
   height: 80px;
   resize: none;
   background-color: #FFF;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   padding: 15px 20px;
   line-height: 1.5em;
@@ -6641,7 +6641,7 @@ footer#footer.footer-style-2 {
 .score-sb ul li,
 .score-criteria ul li {
   position: relative;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   overflow: hidden;
@@ -6675,7 +6675,7 @@ footer#footer.footer-style-2 {
   width: 67px;
   height: 24px;
   line-height: 24px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666666;
   text-align: center;
@@ -6701,7 +6701,7 @@ footer#footer.footer-style-2 {
   width: 100%;
 }
 .table-question thead th {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
   font-size: 14px;
   color: #666;
@@ -6714,7 +6714,7 @@ footer#footer.footer-style-2 {
 .table-question tr td {
   border: 1px solid #d4d4d4;
   text-align: center;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #666;
   line-height: 1.5em;
@@ -6768,7 +6768,7 @@ footer#footer.footer-style-2 {
 }
 .create-course-sidebar .list-bar li {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   background-color: #DDD;
@@ -6787,7 +6787,7 @@ footer#footer.footer-style-2 {
   -moz-border-radius: 50%;
   border-radius: 50%;
   background-color: #eee;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   text-align: center;
@@ -6810,7 +6810,7 @@ footer#footer.footer-style-2 {
 }
 .create-course-sidebar .support a {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   line-height: 1.5em;
@@ -6833,7 +6833,7 @@ footer#footer.footer-style-2 {
   margin-bottom: 100px;
 }
 .create-course-content h4 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #646472;
   line-height: 1.6em;
@@ -6852,7 +6852,7 @@ footer#footer.footer-style-2 {
   border-radius: 4px;
   height: 30px;
   padding: 0 12px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #a6a6a6;
 }
@@ -6874,7 +6874,7 @@ footer#footer.footer-style-2 {
 }
 .create-course-content .course-banner .upload-image,
 .create-course-content .course-banner .recrop {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   margin-bottom: 14px;
@@ -6905,13 +6905,13 @@ footer#footer.footer-style-2 {
   border-radius: 4px;
   height: 30px;
   padding: 0 12px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #a6a6a6;
 }
 .create-course-content .promo-video .upload-video {
   margin-top: 12px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
 }
@@ -6949,7 +6949,7 @@ footer#footer.footer-style-2 {
 .create-course-content .instructors .author cite {
   display: table-cell;
   vertical-align: middle;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   padding-left: 12px;
@@ -6966,7 +6966,7 @@ footer#footer.footer-style-2 {
   color: #F20505;
 }
 .create-course-content .instructors .add-instructor {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #A6A6A6;
 }
@@ -6990,7 +6990,7 @@ footer#footer.footer-style-2 {
 .create-course-content .open-date span.day,
 .create-course-content .duration span.day {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #646472;
   margin-left: 15px;
@@ -7036,7 +7036,7 @@ footer#footer.footer-style-2 {
   color: #EC6766;
 }
 .create-course-content .text-err {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 12px;
   color: #a6a6a6;
   line-height: 1.5em;
@@ -7101,7 +7101,7 @@ footer#footer.footer-style-2 {
 }
 .design-course-tabs li a {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #a6a6a6;
   line-height: 54px;
@@ -7165,7 +7165,7 @@ footer#footer.footer-style-2 {
 .total-quest .count,
 .total-assignment .count {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   margin-left: 12px;
@@ -7221,7 +7221,7 @@ footer#footer.footer-style-2 {
 .table-quest thead th,
 .table-assignment thead th {
   vertical-align: middle;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
   font-size: 14px;
   color: #666;
@@ -7239,7 +7239,7 @@ footer#footer.footer-style-2 {
 .table-quest tbody tr td,
 .table-assignment tbody tr td {
   vertical-align: middle;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   line-height: 1.5em;
@@ -7253,7 +7253,7 @@ footer#footer.footer-style-2 {
 .table-quest tbody tr .count,
 .table-assignment tbody tr .count {
   background-color: #ddd;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
 }
@@ -7366,7 +7366,7 @@ footer#footer.footer-style-2 {
 }
 .dc-section-info .dc-course-item .dc-item-body .unit-item span {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #666;
   line-height: 1.5em;
@@ -7452,7 +7452,7 @@ footer#footer.footer-style-2 {
   width: 100%;
 }
 .create-course-content .tr-file .trigger-file {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   color: #666;
 }
 .create-course-content .tr-file .trigger-file .icon {
@@ -7503,7 +7503,7 @@ footer#footer.footer-style-2 {
 .upload-drag span,
 .paste-link span {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-sie: 12px;
   color: #A0ACB8;
   margin-top: 2px;
@@ -7518,7 +7518,7 @@ footer#footer.footer-style-2 {
 }
 .upload-drag .or {
   position: absolute;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 16px;
   color: #666;
   top: 0;
@@ -7572,7 +7572,7 @@ footer#footer.footer-style-2 {
   border: 1px dashed #A1ADB9;
   background-color: #f2f2f2;
   padding: 20px 10px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   -webkit-border-radius: 4px;
@@ -7588,7 +7588,7 @@ footer#footer.footer-style-2 {
 .uploading .cancel-wrap {
   width: 60px;
   vertical-align: top;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
 }
@@ -7636,7 +7636,7 @@ footer#footer.footer-style-2 {
 }
 .progress-reference ~ .cancel {
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
   color: #666;
   margin-left: 18px;
@@ -7656,7 +7656,7 @@ footer#footer.footer-style-2 {
   width: 72.5%;
   float: left;
   padding-left: 20px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
 }
 .content-item-info .upload-cnt .title-file {
   font-size: 16px;
@@ -7666,7 +7666,7 @@ footer#footer.footer-style-2 {
 .content-item-info .upload-cnt .upload-meta {
   margin-top: 5px;
   margin-bottom: 5px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 12px;
   color: #666;
 }
@@ -7677,7 +7677,7 @@ footer#footer.footer-style-2 {
 }
 .content-item-info .uploading.upload-info .tb-cell {
   padding: 0 10px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   text-align: left;
 }
 .content-item-info .uploading.upload-info .tb-cell .title-file {
@@ -7691,7 +7691,7 @@ footer#footer.footer-style-2 {
 .content-item-info .uploading.upload-info .tb-cell .upload-meta {
   margin-top: 5px;
   margin-bottom: 5px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 12px;
   color: #666;
 }
@@ -7779,7 +7779,7 @@ footer#footer.footer-style-2 {
   width: 100%;
 }
 .dc-item-body .form-item-wrap .quest {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 13px;
   color: #666;
   padding: 0 10px;
@@ -7922,7 +7922,7 @@ footer#footer.footer-style-2 {
   width: 100%;
 }
 .design-course-popup .tr-file .trigger-file {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   color: #666;
 }
 .design-course-popup .tr-file .trigger-file .icon {
@@ -8525,6 +8525,7 @@ footer#footer.footer-style-2 {
   /* margin-left: 0px!important; */
   padding-right: 0px!important;
   padding-left: 0px!important;
+  float: left;
 }
 .md-12-paksa{
   padding-right: 8%!important;
@@ -8547,7 +8548,7 @@ th, tr td:first-child {
 }
 
 table {
-  width: 100%;
+  /* width: 100%; */
   /* height: 400px; */
   font-family: arial;
   letter-spacing: normal;
@@ -8573,7 +8574,7 @@ table td {
   vertical-align: top;
   overflow: hidden;
   height: 30px;
-  width: 100%;
+  width: 20%;
 }
 
 .event {
@@ -9007,3 +9008,47 @@ text-align: center;
   margin-top: 40px!important;
 }
 
+
+.float-profile {
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+}
+
+.float-table {
+  position : fixed;
+  padding-top: 10%;
+}
+
+.table-overflow {
+  overflow-y: scroll;
+  height: 300px!important;
+  width: 100%;
+  position: absolute;
+
+}
+
+tr:hover { 
+  background-color: #fbfbfb; 
+  box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.5); 
+  cursor: pointer; 
+}
+
+.table-shadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tbody-table-mk-dipilih {
+  height: 200px;
+  overflow-y: auto;
+  width: 100%;
+  position: absolute;
+}
+
+.table-fixed {
+  height: 250px;
+}
+
+.paksa-font {
+  font-family: 'Titillium Web', sans-serif;
+}

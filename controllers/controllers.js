@@ -27,6 +27,7 @@ angular.module('scotchApp')
     vm.dtOptions = DTOptionsBuilder
     .newOptions()
     .withOption('scrollX','100%')
+    .withOption('scrollY','100%')
     .withOption('ajax', {
         headers: {
             Authorization: 'Bearer ' + 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMTAxMTM3NTUiLCJqdGkiOiIzZmM3ZmEwNC05YjBlLTQ2ZjAtYmVkMS00NjU3OTQ2ZGJkYmEiLCJuYmYiOjE1MTg5Mzg2MDcsImV4cCI6MTUxODk0OTQwNywiaXNzIjoiQXV0aC5TZXJ2aWNlcyIsImF1ZCI6IktSUyBTZXJ2aWNlcyJ9.SurWFX7jlkOSDH8Orwl0X07ly4L4-pQtPUfffznMyMA'
@@ -52,21 +53,21 @@ angular.module('scotchApp')
         .withDOM('frtip')
         .withPaginationType('full_numbers')
         // Active Buttons extension
-        .withButtons([
-            'columnsToggle',
-            'colvis',
-            'copy',
-            'print',
-            'excel',
-            'pdf',
-            {
-                text: 'Some button',
-                key: '1',
-                action: function(e, dt, node, config) {
-                    alert('Button activated');
-                }
-            }
-        ]);
+        // .withButtons([
+        //     'columnsToggle',
+        //     'colvis',
+        //     'copy',
+        //     'print',
+        //     'excel',
+        //     'pdf',
+        //     {
+        //         text: 'Some button',
+        //         key: '1',
+        //         action: function(e, dt, node, config) {
+        //             alert('Button activated');
+        //         }
+        //     }
+        // ]);
     vm.dtColumns = [
         
         DTColumnBuilder.newColumn('kelas.id_kelas').withTitle('Pilih').notSortable()
