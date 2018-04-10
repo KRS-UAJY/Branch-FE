@@ -37,7 +37,7 @@
 	    // 	controller  : 'contactController'
 	    // })
 	    .otherwise({
-	        redirectTo: '/contact'
+	        redirectTo: '/home'
 	    });
 	})
 	.run(function($rootScope, $http, $location, $localStorage) {
