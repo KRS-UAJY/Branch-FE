@@ -8943,7 +8943,7 @@ text-align: center;
 /* BTN-JADWAL-KULIAH */
 #btn-jadwal-kuliah {
   position: fixed;
-  bottom: 145px;
+  bottom: 75px;
   left: 30px;
   z-index: 99;
   font-size: 18px;
@@ -9018,6 +9018,7 @@ text-align: center;
 .float-table {
   position : fixed;
   padding-top: 10%;
+  
 }
 
 .table-overflow {
@@ -9057,5 +9058,40 @@ tr:hover {
 @media only screen and (max-width: 1024px){
   .float-table {
     padding-top: 13%;
+  }
+}
+
+/* FOCUS INPUT TYPE SEARCH */
+input[type=search]:focus, textarea:focus {
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid rgba(81, 203, 238, 1);
+}
+
+.krs-controller {
+  padding-bottom: 150px;
+  left: 40%;
+  position: fixed!important;
+  z-index: 10;
+}
+
+.mk-pilihan-controller {
+  position: fixed!important;
+  z-index: 10;
+}
+
+.resolution-handler-page {
+  display: none;
+}
+
+/* RESOLUTION HANDLER */
+@media (max-width: 1023px) {
+  .resolution-handler {
+    display: none;
+    
+  }
+  .resolution-handler-page {
+    display:block;
   }
 }

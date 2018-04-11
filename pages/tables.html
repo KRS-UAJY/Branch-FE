@@ -1,9 +1,10 @@
-<!-- <div ng-include="'pages/components/header.html'"></div> -->
+<div class="resolution-handler">
+  <!-- <div ng-include="'pages/components/header.html'"></div> -->
 <div class="float-profile" ng-include="'pages/components/profile.html'"></div>
 
 
 <div class="row pemaksaan-row">
-        <div class="col-md-5 paksa-font float-table">
+        <div class="col-md-5 paksa-font float-table mk-pilihan-controller">
                 <div class="modal-content">
                         <div class="modal-header">
                           <h2>MK Yang Dipilih</h2>
@@ -57,7 +58,7 @@
                         </table>
                       </div>
         </div>
-    <div class="col-md-7 float-table">
+    <div class="col-md-7 float-table krs-controller">
         <table datatable="" dt-options="tables.dtOptions" dt-columns="tables.dtColumns" class="row-border hover table-shadow paksa-font">
 
         </table>
@@ -83,6 +84,10 @@
 <br>
 <br>
 <br>
+</div>
+
+
+<div ng-include="'pages/components/resolution-handler.html'"></div>
 <!-- <div ng-include="'pages/components/footer-dalam.html'"></div> -->
 
 <!-- MODAL MK-DETAIL -->

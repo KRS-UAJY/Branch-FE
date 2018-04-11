@@ -11,7 +11,7 @@
       <a href="#">Semester 8</a>
     </div>
   </div>
-  <span class="tooltip-hover" data-toggle="tooltip" data-placement="bottom" data-original-title="Button Dummy Detail" id="popupNavBtn" onclick="openNav()"><i class="fa fa-list-ol"></i></span>
+  <span class="tooltip-kiri" data-toggle="tooltip" data-placement="bottom" data-original-title="Filter MK Per Semester" id="popupNavBtn" onclick="openNav()"><i class="fa fa-list-ol"></i></span>
 
   <script>
     function openNav() {
@@ -21,4 +21,12 @@
     function closeNav() {
         document.getElementById("popupNav").style.height = "0%";
     }
+    </script>
+
+<script>
+    $(document).ready(function(){
+        $('.tooltip-hover').tooltip({trigger: "hover", placement: "right"});
+        $('.tooltip-kiri').tooltip({trigger: "hover", placement: "left"});
+        // $('.tooltip-jadwal-ujian').tooltip({title: "Jadwal Ujian", trigger: "hover"});
+    });  
     </script>
