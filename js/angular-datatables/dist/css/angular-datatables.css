@@ -15,8 +15,8 @@ table.dataTable,
 table.dataTable.no-footer{
     margin: 1rem 0;
     width: 100% !important;
-    border-top: 1px solid #139DF0;;
-    border-bottom: 1px solid #139DF0;
+    /* border-top: 1px solid #139DF0;
+    border-bottom: 1px solid #139DF0; */
 }
 /* -- select box --*/
 .dataTables_length {
@@ -38,7 +38,7 @@ table.dataTable.no-footer{
 }
 /* -- table --*/
 table.dataTable thead th, table.dataTable thead td {
-    border-bottom: 1px solid #139DF0;;
+    /* border-bottom: 1px solid #139DF0;; */
 }
 table.dataTable tbody th, table.dataTable tbody td {
     padding: 10px 18px;

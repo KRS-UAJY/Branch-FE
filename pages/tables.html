@@ -6,62 +6,67 @@
 <div class="row pemaksaan-row">
         <div class="col-md-5 paksa-font float-table mk-pilihan-controller">
                 <div class="modal-content">
-                        <div class="modal-header">
-                          <h2>MK Yang Dipilih</h2>
-                        </div>
-                        <table class="table table-fixed">
-                          <thead class="paksa-font">
-                            <tr>
-                              <th scope="col">No.</th>
-                              <th scope="col">Nama MK</th>
-                              <th scope="col">Kelas</th>
-                              <th scope="col">Batalkan</th>
-                            </tr>
-                          </thead>
-                          <tbody class="tbody-table-mk-dipilih paksa-font">
-                            <tr>
-                              <td>1</td>
-                              <td>Hisap Hisap 1</td>
-                              <td>F</td>
-                              <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
-                            </tr>
-                            <tr>
-                              <td>1</td>
-                              <td>Hisap Hisap 2</td>
-                              <td>C</td>
-                              <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
-                            </tr>
-                            <tr>
-                              <td>1</td>
-                              <td>Hisap Hisap 3</td>
-                              <td>G</td>
-                              <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
-                            </tr><tr>
-                              <td>1</td>
-                              <td>Hisap Hisap 1</td>
-                              <td>F</td>
-                              <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
-                            </tr>
-                            <tr>
-                              <td>1</td>
-                              <td>Hisap Hisap 2</td>
-                              <td>C</td>
-                              <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
-                            </tr>
-                            <tr>
-                              <td>1</td>
-                              <td>Hisap Hisap 3</td>
-                              <td>G</td>
-                              <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </div>
+                    <div class="modal-header">
+                      <h2>MK Yang Dipilih</h2>
+                    </div>
+                    <table class="table table-fixed">
+                      <thead class="paksa-font">
+                        <tr>
+                          <th scope="col">No.</th>
+                          <th scope="col">Nama MK</th>
+                          <th scope="col">Kelas</th>
+                          <th scope="col">Batalkan</th>
+                        </tr>
+                      </thead>
+                      <tbody class="tbody-table-mk-dipilih paksa-font">
+                        <tr>
+                          <td>1</td>
+                          <td>Mata Kuliah 1</td>
+                          <td>F</td>
+                          <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
+                        </tr>
+                        <tr>
+                          <td>2</td>
+                          <td>Mata Kuliah 2</td>
+                          <td>C</td>
+                          <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
+                        </tr>
+                        <tr>
+                          <td>3</td>
+                          <td>Mata Kuliah 3</td>
+                          <td>G</td>
+                          <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
+                        </tr><tr>
+                          <td>4</td>
+                          <td>Mata Kuliah 1</td>
+                          <td>F</td>
+                          <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
+                        </tr>
+                        <tr>
+                          <td>5</td>
+                          <td>Mata Kuliah 2</td>
+                          <td>C</td>
+                          <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
+                        </tr>
+                        <tr>
+                          <td>6</td>
+                          <td>Mata Kuliah 3</td>
+                          <td>G</td>
+                          <td><button class="btn btn-danger"><i class="fa fa-trash-alt"></i></button></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                </div>
         </div>
-    <div class="col-md-7 float-table krs-controller">
-        <table datatable="" dt-options="tables.dtOptions" dt-columns="tables.dtColumns" class="row-border hover table-shadow paksa-font">
+    <div class="col-md-7 float-table krs-controller paksa-font">
+       <div class="modal-content-krs">
+          <div class="modal-header">
+              <h2>Penawaran KRS</h2>
+          </div>
+          <table datatable="" dt-options="tables.dtOptions" dt-columns="tables.dtColumns" class="row-border hover table-shadow paksa-font">
 
-        </table>
+          </table>
+       </div>
     </div>
 </div>
 
@@ -72,6 +77,11 @@
 <div>
     <a href="#/jadwal-kuliah" title="Jadwal Kuliah" id="btn-jadwal-kuliah" class="btn btn-primary tooltip-hover"><i class="fa fa-calendar-check"></i></a>
 </div>
+
+<div>
+  <a title="Total Biaya" id="btn-biaya-mk" class="btn btn-primary tooltip-hover"><i class="fa fa-money-bill-alt"></i>  Rp. 3.000.000,-</a>
+</div>
+
 <!-- <div>
     <a href="#/jadwal-ujian" title="Jadwal Ujian" id="btn-jadwal-ujian" class="btn btn-primary  tooltip-hover"><i class="fa fa-calendar-alt"></i></a>
 </div> -->
