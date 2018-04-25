@@ -242,3 +242,8 @@ a.article, a.article:hover {
     border-radius: 0;
     margin-bottom: 40px;
 }
+
+#datepicker {
+    position: relative;
+    z-index: 100;
+}

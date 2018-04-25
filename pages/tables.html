@@ -66,21 +66,39 @@
           <table datatable="" dt-options="tables.dtOptions" dt-columns="tables.dtColumns" class="row-border hover table-shadow paksa-font">
 
           </table>
+          <table datatable="" dt-options="tables.dtOptions" dt-columns="tables.dtColumns" class="row-border hover table-shadow paksa-font">
+
+            </table>
+            <table datatable="" dt-options="tables.dtOptions" dt-columns="tables.dtColumns" class="row-border hover table-shadow paksa-font">
+
+              </table>
+              <table datatable="" dt-options="tables.dtOptions" dt-columns="tables.dtColumns" class="row-border hover table-shadow paksa-font">
+
+                </table>
        </div>
     </div>
 </div>
+
 
 <div>
     <a id="reset" class="btn btn-primary paksa-font" href="#/home">Submit KRS</a>
 </div>
 
 <div>
-    <a href="#/jadwal-kuliah" title="Jadwal Kuliah" id="btn-jadwal-kuliah" class="btn btn-primary tooltip-hover"><i class="fa fa-calendar-check"></i></a>
+    <a href="#/jadwal-kuliah" title="Jadwal Kuliah" id="btn-jadwal-kuliah" class="btn btn-primary tooltip-atas"><i class="fa fa-calendar-check"></i></a>
 </div>
 
 <div>
-  <a title="Total Biaya" id="btn-biaya-mk" class="btn btn-primary tooltip-hover"><i class="fa fa-money-bill-alt"></i>  Rp. 3.000.000,-</a>
+  <a title="Total Biaya" id="btn-biaya-mk" class="btn btn-primary tooltip-atas"><i class="fa fa-money-bill-alt"></i>  Rp. 3.000.000,-</a>
 </div>
+
+<div>
+  <a title="Sisa SKS" id="btn-sisa-sks" class="btn btn-primary tooltip-atas paksa-font">
+    <i class="fa fa-ticket-alt"></i>
+    Jatah/Sisa SKS : 24/24
+  </a>
+</div>
+
 
 <!-- <div>
     <a href="#/jadwal-ujian" title="Jadwal Ujian" id="btn-jadwal-ujian" class="btn btn-primary  tooltip-hover"><i class="fa fa-calendar-alt"></i></a>
@@ -135,6 +153,7 @@
     $(document).ready(function(){
         $('.tooltip-hover').tooltip({trigger: "hover", placement: "right"});
         $('.tooltip-kiri').tooltip({trigger: "hover", placement: "left"});
+        $('.tooltip-atas').tooltip({trigger: "hover", placement: "top"});
         // $('.tooltip-jadwal-ujian').tooltip({title: "Jadwal Ujian", trigger: "hover"});
     });  
     </script>
